@@ -1,0 +1,27 @@
+Git - é um software de versionamento de código que ajuda a criar e monitorar diferentes versões do nosso código dentro da nossa máquina.
+O git não tem uma interface gráfica. Ele é todo manuseado por linhas de comandos (comand line interface).
+
+Alguns comandos no git:
+* dir - comando para listar diretórios
+Ele vai mostrar uma lista de diretórios na pasta que está situado. 
+
+* cd - comando para navegar entre as pastas
+Digital cd / + caminho especifico
+
+* cd ..
+Se eu quiser voltar um nível
+
+* c/s
+Comando para limpar a tela. Vai limpar todo o terminal.
+
+* tab - Ele autocompleta 
+Se eu digitar cd w +tab, ele vai completar
+
+* mkdir - para criar uma pasta
+Digitar mkdir + nome da pasta
+
+* del + nome da pasta
+Vai deletar tudo dentro daquela pasta
+
+* Seta para cima
+Encontrar um comando já digitado anteriormente
